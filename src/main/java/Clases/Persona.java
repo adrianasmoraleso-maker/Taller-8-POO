@@ -1,7 +1,7 @@
 package Clases;
 
 public class Persona {
-    protected String nombre;
+    private String nombre;
     protected int edad;
 
     public Persona(String nombre, int edad) {
